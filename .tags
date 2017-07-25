@@ -1,0 +1,8 @@
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Home/Home.js	/^  render() {$/;"	function	line:5
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/More/More.js	/^  render() {$/;"	function	line:5
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Mine/Mine.js	/^  render() {$/;"	function	line:5
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Shop/Shop.js	/^  render() {$/;"	function	line:5
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/index.android.js	/^  render() {$/;"	function	line:14
+constructor	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Main/Main.js	/^  constructor() {$/;"	function	line:10
+state.tabNavigatorSelected	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Main/Main.js	/^    this.state = {$/;"	property	line:12
+render	/Users/Mac/Desktop/ReactnativeProject/XMGBuy/Component/Main/Main.js	/^  render() {$/;"	function	line:17
