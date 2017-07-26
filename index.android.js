@@ -7,11 +7,11 @@
 import React from 'react';
 import {AppRegistry} from 'react-native';
 
-import Main from './Component/Main/Main';
+import ReactTabMain from './Component/Main/ReactTabMain';
 
 class XMGBuy extends React.Component {
   render() {
-    return (<Main/>);
+    return (<ReactTabMain/>);
   }
 }
 
